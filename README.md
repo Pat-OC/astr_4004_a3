@@ -1,2 +1,3 @@
 # astr_4004_a3
-astr4004 assignment 3 
+
+Repo for ANU ASTR4004 Assignment 3 written by Dr Sven Buder. All solutions are my own and are not to be copied.
